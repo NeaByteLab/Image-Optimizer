@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# dotenv
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
